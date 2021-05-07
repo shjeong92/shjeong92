@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shjeong92
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs with Redux.js and Django REST framework 
+- 🌱 I’m currently learning React.js with Redux.js and Django REST framework 
 - 💞️ I’m looking to collaborate on building any kinds of web application if you let me join :)
 - 📫 To reach me  -> shjeong920522@gmail.com
 
