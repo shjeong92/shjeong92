@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shjeong92
+- 👋 Hi, I’m Sanghyuk!
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js with Redux.js and Django REST framework 
 - 💞️ I’m looking to collaborate on building any kinds of web application if you let me join :)
